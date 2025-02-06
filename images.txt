@@ -1,4 +1,4 @@
 #配置要拉取的镜像
-rendora/rendora
+rendora/chrome-headless
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
