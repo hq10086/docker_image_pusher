@@ -1,4 +1,4 @@
 #配置要拉取的镜像
-rendora/chrome-headless
+zenika/alpine-chrome:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
